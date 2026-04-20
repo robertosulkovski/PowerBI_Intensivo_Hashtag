@@ -8,6 +8,18 @@ Os projetos abordam cenários reais de análise, incluindo vendas, produção e 
 
 ---
 
+## Preview dos Projetos
+
+### Dashboard de Vendas
+![Dashboard Vendas](./dashboard-vendas/preview.png)
+
+### Dashboard de Produção
+![Dashboard Produção](./dashboard-producao/preview.png)
+
+### Dashboard de RH
+![Dashboard RH](./dashboard-rh/preview.png)
+
+---
 ## Projetos
 
 ### Dashboard de Vendas
