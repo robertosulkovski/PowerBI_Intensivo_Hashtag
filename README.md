@@ -20,12 +20,12 @@ Principais pontos:
 * Comparação de desempenho por região
 * Ranking de marcas por faturamento
 
-Estrutura:
+"""Estrutura:
 📁 dashboard-vendas
 ┣ 📄 dashboard.pbix
 ┣ 📄 preview.png
 ┗ 📄 vendas.xlsx
-
+"""
 ---
 
 ### Dashboard de Produção
